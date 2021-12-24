@@ -7,6 +7,6 @@
 - 😄 Pronouns: He/Him
 
 - 📫 How to reach me:
-    -Email: DakotaJPro93@gmail.com
-    -Linkedin: linkedin.com/in/dakotajackson93
+    - Email: DakotaJPro93@gmail.com
+    - Linkedin: linkedin.com/in/dakotajackson93
 
