@@ -8,5 +8,5 @@
 
 - 📫 How to reach me:
     - Email: DakotaJPro93@gmail.com
-    - Linkedin: linkedin.com/in/dakotajackson93
+    - Linkedin: [linkedin.com/in/dakotajackson93](url)
 
