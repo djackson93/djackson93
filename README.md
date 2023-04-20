@@ -1,9 +1,9 @@
 ### Hey! I'm Dakota Jackson! 🖐
 
 - 👨‍🎓 I'm a recent college graduate from Lamar University!
-- 💻 I'm currently looking for the right place to start my Software Developing career!
-- ✔️ I'm confident in languages such as Java and Python (and always learning more).
-- 🏠 Southeast Texas area (➡️ Austin area soon?)
+- 💻 I've currently started my career as a Sfotware Developer at General Motors!
+- ✔️ I'm confident in languages such as Java and Python (and always learning more skills such as Bash,SQL, PowerBI and more currently).
+- 🏠 Austin area soon!
 - 😄 Pronouns: He/Him
 
 - 📫 How to reach me:
